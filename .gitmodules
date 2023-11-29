@@ -1,0 +1,3 @@
+[submodule "susmitha-test-repo"]
+	path = susmitha-test-repo
+	url = https://github.com/susmitha-aws9/susmitha-test-repo.git
